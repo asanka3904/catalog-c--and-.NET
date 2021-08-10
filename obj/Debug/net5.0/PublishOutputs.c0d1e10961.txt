@@ -1,0 +1,11 @@
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Catalog.exe
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\appsettings.Development.json
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\appsettings.json
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Catalog.dll
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Catalog.deps.json
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Catalog.runtimeconfig.json
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Catalog.pdb
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\project\c#,.NET\learn\learn.net\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
